@@ -1,0 +1,5 @@
+RUN	org.example.Archives	archives	1593655127475	 	3.3.1
+ERROR	列表: Failed to build request: No attribute named 'token' is defined 	1593655128866
+USER	成长记录	1	START	1593655128850	1593655128850
+REQUEST	1		authortoken	1593655128889	1593655129023	OK	 
+USER	成长记录	1	END	1593655128850	1593655129111

@@ -1,0 +1,5 @@
+RUN	org.example.Token	token	1593413166976	 	3.3.1
+USER	Token	1	START	1593413168550	1593413168550
+REQUEST	1		authortoken	1593413168579	1593413168642	OK	 
+REQUEST	1		authortoken Redirect 1	1593413168653	1593413168731	KO	jsonPath($access_token).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.c.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')  at [Source: (SequenceInputStream); line: 1, column: 2]
+USER	Token	1	END	1593413168550	1593413168789

@@ -1,0 +1,4 @@
+RUN	org.huanhuan.Login	login	1593856507457	 	3.3.1
+USER	Login	1	START	1593856508872	1593856508872
+REQUEST	1		登录	1593856508896	1593856518913	KO	i.n.c.ConnectTimeoutException: connection timed out: login.daily.yungu-inc.org/101.37.147.162:443
+USER	Login	1	END	1593856508872	1593856518926

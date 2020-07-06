@@ -1,0 +1,4 @@
+RUN	org.example.RecordedSimulationtest	recordedsimulationtest	1591690468636	 	3.3.1
+USER	RecordedSimulationtest	1	START	1591690470110	1591690470110
+REQUEST	1		request_0	1591690470195	1591690470476	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+USER	RecordedSimulationtest	1	END	1591690470110	1591690470505

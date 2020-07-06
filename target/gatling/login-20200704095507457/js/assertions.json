@@ -1,0 +1,10 @@
+{
+  "simulation": "org.huanhuan.Login",
+  "simulationId": "login",
+  "start": 1593856507457,
+  "description": "",
+  "scenarios": ["Login"],
+  "assertions": [
+
+  ]
+}

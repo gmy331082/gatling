@@ -1,0 +1,10 @@
+{
+  "simulation": "org.example.Token",
+  "simulationId": "token",
+  "start": 1593413166976,
+  "description": "",
+  "scenarios": ["Token"],
+  "assertions": [
+
+  ]
+}

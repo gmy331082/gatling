@@ -1,0 +1,4 @@
+RUN	org.example.Archives	archives	1594008816952	 	3.3.1
+USER	成长记录	1	START	1594008818318	1594008818318
+REQUEST	1		创建记录	1594008818349	1594008818445	KO	jsonPath($.message).find.is(操作成功), but actually found 请刷新！
+USER	成长记录	1	END	1594008818318	1594008818541

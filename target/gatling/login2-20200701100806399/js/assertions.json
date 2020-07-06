@@ -1,0 +1,10 @@
+{
+  "simulation": "org.example.Login2",
+  "simulationId": "login2",
+  "start": 1593598086399,
+  "description": "",
+  "scenarios": ["login"],
+  "assertions": [
+
+  ]
+}

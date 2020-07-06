@@ -1,0 +1,10 @@
+{
+  "simulation": "org.example.Course",
+  "simulationId": "course",
+  "start": 1593449625652,
+  "description": "",
+  "scenarios": ["Course"],
+  "assertions": [
+
+  ]
+}

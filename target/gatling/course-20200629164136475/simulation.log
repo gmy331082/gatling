@@ -1,0 +1,6 @@
+RUN	org.example.Course	course	1593448896475	 	3.3.1
+USER	Login	1	START	1593448897881	1593448897881
+REQUEST	1		authortoken	1593448897912	1593448898497	OK	 
+REQUEST	1		authortoken Redirect 1	1593448898518	1593448898593	KO	jsonPath($.access_token).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.c.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')  at [Source: (SequenceInputStream); line: 1, column: 2]
+ERROR	getCourses: Failed to build request: No attribute named 'token' is defined 	1593448898628
+USER	Login	1	END	1593448897881	1593448898638

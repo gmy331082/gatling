@@ -1,0 +1,10 @@
+{
+  "simulation": "org.huanhuan.choosePlanList",
+  "simulationId": "chooseplanlist",
+  "start": 1593856107210,
+  "description": "",
+  "scenarios": ["选课计划"],
+  "assertions": [
+
+  ]
+}

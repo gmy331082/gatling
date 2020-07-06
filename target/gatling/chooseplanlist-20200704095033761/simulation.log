@@ -1,0 +1,5 @@
+RUN	org.huanhuan.choosePlanList	chooseplanlist	1593856233761	 	3.3.1
+USER	选课计划	1	START	1593856235228	1593856235228
+REQUEST	1		登录	1593856235292	1593856245306	KO	i.n.c.ConnectTimeoutException: connection timed out: login.daily.yungu-inc.org/101.37.147.162:443
+ERROR	计划列表: Failed to build request: No attribute named 'token' is defined 	1593856245332
+USER	选课计划	1	END	1593856235228	1593856245340
